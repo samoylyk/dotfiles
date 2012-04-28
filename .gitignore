@@ -1,0 +1,68 @@
+# Mac OS X
+.DS_Store
+.LSOverride
+Icon
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary stuff
+*~
+._*
+*.un~
+*.tmp
+*.bak
+*.swp
+*.old
+*.log
+tmp/
+log/
+
+# Specific stuff
+__pycache__/
+*.py[cod]
+*.gem
+.metadata
+.gradle
+local.properties
+.settings/
+.loadpath
+.project
+*.manifest
+*.spec
+*.mo
+*.pot
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Shared objects
+*.so
+*.so.*
+*.dll
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# VCS
+.svn/
+/CVS/*
+*/CVS/*
+.cvsignore
+*/.cvsignore
+
+# TeX
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
